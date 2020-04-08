@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+
+    <string name="edit_username">Username</string>
+    <string name="edit_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="search">search</string>
+
+</resources>

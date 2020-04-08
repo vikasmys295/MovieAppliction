@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="relativelayout_padding">16dp</dimen>
+    <dimen name="card_layout_height">350dp</dimen>
+    <dimen name="cardRadius">5dp</dimen>
+    <dimen name="cardElevation">5dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="layout_margin">8dp</dimen>
+    <dimen name="paddingStart">5dp</dimen>
+    <dimen name="layout_marginTop">10dp</dimen>
+    <dimen name="button_layout_height">50dp</dimen>
+    <dimen name="button_layout_margin">20dp</dimen>
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="Elevation">6dp</dimen>
+    <dimen name="textview_margin_contentlist">24dp</dimen>
+
+
+</resources>
